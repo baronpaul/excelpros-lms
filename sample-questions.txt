@@ -1,0 +1,197 @@
+1)	
+All of the following statements concerning windows are true EXCEPT:
+
+(A) toolbars and scrollbars are features of windows.
+(B) windows are an example of a command-driven environment
+(C) windows can be resized and repositioned on the desktop.
+(D) more than one window can be open at a time.
+
+correct: B
+
+2)	
+The operating system does all of the following EXCEPT:
+
+(A) provide a way for the user to interact with the computer.
+(B) enable users to perform a specific task such as document editing.
+(C) manage memory and storage
+(D) manage the central processing unit (CPU)
+correct: B
+
+3)	
+'Blue tooth' technology allows
+
+(A) Satellite communication
+(B) Signal transmission on mobile phones only
+(C) Wireless communication between equipments
+(D) Landline phone to mobile phone communication
+
+Correct: C
+
+4)	
+Which is the main working memory used by the computer?
+
+(A) RAM
+(B) ROM
+(C) DVD
+(D) CD
+
+Correct: A
+
+5)	
+One of the Input device in computer is
+
+(A) Keyboard
+(B) Os
+(C) Pen drive
+(D) Cable
+
+COrrect: A
+
+6)	
+The process of transferring files from a computer on the Internet to your computer is called
+
+(A) Downloading
+(B) FTP
+(C) Forwarding
+(D) Uploading
+
+Correct: A
+
+7)	
+What is e-commerce?
+
+(A) Buying and selling international goods
+(B) Buying and selling products and services over the Internet
+(C) Buying and selling products and services not found in stores
+(D) Buying and selling computer products
+
+Correct: B
+
+8)	
+Which of the following is a correct format of Email address?
+
+(A) care@website.com
+(B) care@website@com
+(C) carewebsite.com
+(D) care.website.com
+
+Correct: A
+
+8)	
+Which of the following is a correct format of Email address?
+
+(A) care@website.com
+(B) care@website@com
+(C) carewebsite.com
+(D) care.website.com
+
+Correct: D
+
+10)	
+You can move between two or more Excel files opened by using the
+
+(A) ctrl + tab
+(B) ctrl + page up
+(C) ctrl + page down
+(D) ctrl + F9
+
+Correct A
+
+
+11)
+An insurance policy covering fire damage to stock pays 70% of the costs for the first $1,000 and all of the cost thereafter up to a total of $7,000. Following a claim, the claimant had to pay an additional $2,000 to replace damaged stock. How much was the stock worth?
+
+A. $9,300
+B. $9,700
+C. $9,500
+D .$8,700
+Correct: B
+
+12)
+People should be held accountable for their own actions. However, no person should be held accountable for actions over which they have no control.
+
+Which of the following is the most logical conclusion of the argument above?
+
+A. People should not be held accountable for the actions of other people.
+B. People have control over their own actions.
+C. People cannot control the actions of other people.
+D. Actions that cannot be controlled should not be punished.
+Correct: D
+
+13)
+Kurt is a student of Spanish. All students study either Latin or English, but some students of English do not study Latin because they do not think it is a useful thing to know. Students of Spanish never study English. Therefore, Kurt must think Latin is a useful thing to know.
+
+Which of the following must be true for the conclusion above to be logically correct?
+
+A. Spanish is more useful than English.
+B. All students who think Latin is useful study it.
+C. All students of Latin think it is a useful thing to know.
+D. Latin is more useful than Spanish.
+Correct: C
+
+14)
+Sabine earns more than Pedro. Sabine earns the same as Maria.
+Antonio earns less than Maria. Valeria earns less than Sabine.
+Pedro earns less than Valeria.
+
+Who earns the least money?
+
+A. Sabine.
+B. Valeria.
+C. Antonio.
+D. Pedro.
+Correct: D
+
+15)
+An insurance policy covering flood damage to stock pays 80% of the costs for the first $1,000 and all of the cost thereafter up to a total of $5,000. Following a claim, the claimant had to pay an additional $1,000 to replace damaged stock. How much was the stock worth?
+
+A. $5,800
+B. $6,400
+C. $6,200
+D .$6,800
+Correct: D
+
+16)
+Ceasarian section is a process of giving birth to a baby by a woman through 
+
+a. Labour
+b. Medication
+c. Oral therapy
+d. Operation
+Correct: D
+
+17)
+Urine contains urea, water and 
+
+a. hydrogen
+b. soldium
+c. H20
+d. Salt
+Correct: D
+
+18)
+Parliamentary Filibuster strategy is a method of delaying decision in the parliament through
+ 
+(a) adjournment
+(b) long speech
+(c) physical combat
+(d) absenteeism
+Correct: B
+
+19)
+Kerosene is a product refined from 
+
+a. Petrol
+b. Petroleum Jelly
+c. Crude oil
+d. Plan oil
+Correct: C
+
+20)
+The instrument for finding the direction of the wind is called...............
+ 
+(a) Wind hook
+(b) Wind clock
+(c) Wind Vane
+(d) Baro meter
+Correct: C

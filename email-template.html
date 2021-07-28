@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bongou Portal | New requisition notification</title>
+</head>
+<body>
+
+	<table width="100%" border="0">
+		<tr>
+	    	<td>
+	        	<div style="height:auto; width:720px; margin: 0 auto; font-family: sans-serif;">
+	            	<table width="100%" border="0">
+	                	
+	                    <tr>
+	                    	<td>
+	                    		<div style="width:100%; text-align: center; padding-bottom: 10px; border-bottom: solid 1px #999">
+	                    			<img src="https://gallery.mailchimp.com/2bc604eaf83d18c5aca609711/images/60ca18f6-1507-4199-9db3-8cfcee4274b4.png" width="100px" />
+	                    		</div>
+
+	                    		<div style="width:100%;margin: 60px 0 100px; padding: 0 15px">
+	                    			<h2 style="font-weight: normal">New Requisition Alert</h2><br>
+	                    			<p>Hello {{ $receipient_firstname }}</p><br>
+	                    			<p>{{ $data->firstname }} has made a new requisition for the sum of &#8358;{{ $data->amount_requested }} for {{ $data->description }} on the bongoufood portal</p>
+	                    			<p>Please visit <a href="http://bongoufood.net">bongoufood.net</a>, and login to view the requisition</p>
+	                    		</div>
+
+	                    	</td>
+	                    </tr>
+
+	                    <tr>
+	                    	<td>
+	                        	<div style="background-color: #ddd; padding: 10px 15px">
+	                        		<p style="text-align: center">Bongou Food Service Ltd </p>
+	                        	</div>
+	                        </td>
+	                    </tr>
+
+	                </table>
+	            </div>
+	        </td>
+	    </tr>
+	</table>
+
+</body>
+</html>

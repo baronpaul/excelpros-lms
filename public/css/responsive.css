@@ -1,0 +1,117 @@
+@media (max-width: 768px) {
+
+}
+
+
+
+@media (max-width: 480px) {
+h1 {
+	font-size: 2.7rem;
+}
+
+h2 {
+	font-size: 2.4rem;
+}
+
+h3 {
+	font-size: 2.2rem;
+}
+
+h4 {
+	font-size: 2rem;
+}
+
+h5 {
+	font-size: 1.8rem;
+}
+
+.header-mobile .logo {
+	padding: 10px 0;
+}
+
+.logo {
+	width: 70px;
+}
+
+.top_nav {
+	display: none;
+}
+
+#banner_wrap {
+	padding-bottom: 55%;
+}
+
+#banner .item.active .slider-content {
+	top: 12%;
+   	left: 30px;
+}
+
+.slider-content a {
+    height: 30px;
+    line-height: 30px;
+    padding: 0 20px;
+    font-size: 1.1rem;
+}
+
+.caption h2 {
+	font-size: 1.6rem;
+}
+
+.caption p {
+	display: none;
+}
+
+#banner .carousel-indicators {
+	bottom: 20px;
+}
+
+.welcome_txt {
+	margin-top: 0;
+}
+
+.welcome_img_box {
+	transform: translate(0,0);
+}
+
+#parallax {
+	background-size: cover;
+	padding: 50px 0;
+}
+
+footer h4 {
+	margin-bottom: 25px;
+}
+
+.social {
+	margin-bottom: 40px;
+}
+
+#alt_banner_wrap {
+	padding-bottom: 35%;
+}
+
+.page_title h1 {
+	font-size: 2.2rem;
+	padding: 10px;
+}
+
+.mission_txt {
+	padding: 10px;
+}
+
+.top_side {
+	margin-bottom: 50px;
+}
+
+.popup_header h1 {
+	font-size: 2rem;
+}
+
+}
+
+
+
+
+@media (max-width: 320px) {
+
+}
